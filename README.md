@@ -2,6 +2,8 @@
 
 存放静态文件
 
+CDN加速：https://cdn.jsdelivr.net/gh/hougeai/static-cdn@master/images/xx.webp
+
 # 1. 目录结构
 ```
 static-cdn
