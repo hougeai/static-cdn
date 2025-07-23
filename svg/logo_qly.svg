@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="60" height="60" viewBox="0 0 60 60"
+<svg width="200" height="200" viewBox="0 0 60 60"
      xmlns="http://www.w3.org/2000/svg"
      aria-label="千流云 QianLiuYun Logo">
 
   <!-- 声波支流（3 条短竖，保持原长度比例并居中） -->
-  <g stroke-width="3" stroke-linecap="round">
-    <line x1="26" y1="24" x2="26" y2="32" stroke="#FFB399"/>
-    <line x1="30" y1="22" x2="30" y2="34" stroke="#FF7F50"/>
-    <line x1="34" y1="26" x2="34" y2="30" stroke="#FF4500"/>
+  <g stroke-width="8" stroke-linecap="round">
+    <line x1="18" y1="16" x2="18" y2="44" stroke="#FFB399"/>
+    <line x1="30" y1="14" x2="30" y2="46" stroke="#FF7F50"/>
+    <line x1="42" y1="18" x2="42" y2="42" stroke="#FF4500"/>
   </g>
 </svg>
